@@ -17,7 +17,7 @@
       </div>
   <br>
         <a href="#" class="twitter btn">
-         <i class="fa fa-twitter fa-fw"></i> Login with Twitter
+          <i class="fa fa-twitter fa-fw"></i> Login with Twitter
         </a>
 
       <div class="col">
